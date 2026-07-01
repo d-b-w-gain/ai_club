@@ -25,3 +25,7 @@ What might we learn, make, or discuss?
 ## First Small Step
 
 What is the smallest useful version of this idea?
+
+## Possible Outcome
+
+What might be worth committing to `solutions/` after someone tries it?

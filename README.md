@@ -34,6 +34,8 @@ These are examples from what members are currently working on or wondering about
 - Share examples of productive AI use in creative, technical, or everyday work.
 - Discuss how people can use AI without losing authorship, craft, judgment, or trust.
 
+Project ideas should usually start as GitHub issues. That keeps the backlog easy to browse, discuss, and choose from.
+
 ## How This Repo Helps
 
 This repository is the club notebook.
@@ -41,4 +43,4 @@ This repository is the club notebook.
 - The README introduces the club.
 - Issues are the project backlog: ideas, challenges, questions, and things to try next.
 - Meeting notes record what happened and what we want to do next.
-- Project folders can collect prompts, screenshots, links, notes, and experiments.
+- Solutions record what people made, tried, learned, or concluded after a meeting challenge.
